@@ -13,5 +13,6 @@
  
 5. type `start()` into console. press enter.
 
-6. fetch your popcorn and start watching!
+6. grab your popcorn and start watching.
 
+7. just type `stop()` into console and press enter if you are tired.
