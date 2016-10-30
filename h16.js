@@ -1,3 +1,5 @@
+var c = $('#hplogo')
+
 var fireMouseEvent = function (type, elem, centerX, centerY) {
   var evt = document.createEvent('MouseEvents');
   evt.initMouseEvent(type, true, true, window, 1, 1, 1, centerX, centerY, false, false, false, false, 0, elem);
